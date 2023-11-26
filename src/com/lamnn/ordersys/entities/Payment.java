@@ -1,7 +1,7 @@
 package com.lamnn.ordersys.entities;
 
-import com.lamnn.ordersts.constants.PaymentMethod;
-import com.lamnn.ordersts.constants.PaymentStatus;
+import com.lamnn.ordersys.constants.PaymentMethod;
+import com.lamnn.ordersys.constants.PaymentStatus;
 
 public class Payment {
     private int paymentId;

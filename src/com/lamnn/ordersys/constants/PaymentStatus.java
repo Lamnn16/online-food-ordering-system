@@ -1,4 +1,4 @@
-package com.lamnn.ordersts.constants;
+package com.lamnn.ordersys.constants;
 
 public enum PaymentStatus {
 	PENDING, COMPLETED, FAILED, CANCELED

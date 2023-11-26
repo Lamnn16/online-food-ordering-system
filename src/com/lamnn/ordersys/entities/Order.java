@@ -2,7 +2,7 @@ package com.lamnn.ordersys.entities;
 
 import java.util.List;
 
-import com.lamnn.ordersts.constants.OrderStatus;
+import com.lamnn.ordersys.constants.OrderStatus;
 
 public class Order {
 	private int orderId;
